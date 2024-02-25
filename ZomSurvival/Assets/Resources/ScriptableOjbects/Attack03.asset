@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cf579335806564bbc23e0046ea2c19, type: 3}
+  m_Name: Attack03
+  m_EditorClassIdentifier: 
+  item:
+    E_type: 500
+    E_effectType: 3
+    E_attackType: 0
+    isUsed: 0
+    index: 2
+    name: Attack
+    img: {fileID: 1244009871, guid: f91e900c673a30b4c8951d84e08ea3c1, type: 3}
+    level: 3
+    price: 300
+    stateValue: 15
+    skillName: 
+    skillValue: 0
+    infomation: increse Attack
+    buffValue: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cf579335806564bbc23e0046ea2c19, type: 3}
+  m_Name: BattleItem03
+  m_EditorClassIdentifier: 
+  item:
+    E_type: 100
+    E_effectType: 0
+    E_attackType: 1
+    isUsed: 0
+    index: 2
+    name: BattleGun03
+    img: {fileID: 21300000, guid: ac84a35200087914ea12b52301a52f03, type: 3}
+    level: 1
+    price: 0
+    stateValue: 10
+    skillName: It's a long-range attack weapon. Summon a gun that fires a bullet.
+    skillValue: 0
+    infomation: BattleGun03
+    buffValue: 1
