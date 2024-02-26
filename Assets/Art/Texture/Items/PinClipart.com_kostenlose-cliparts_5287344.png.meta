@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: e01267379b118714da17e520d445ec3f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 302
+        width: 175
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b685f230091c6a6489c062a07a8fc8fd
+      internalID: 25725256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 212
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023496a415ae774ca4915f215d3621e
+      internalID: -1650455259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 207
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8958d9dac5bfb4a9cb22627a75f0b5
+      internalID: -2009320689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e28a4b155f914aa580f18971de659
+      internalID: 270864586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 99
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064fca6c5dc07d64080a1b459c38ec1f
+      internalID: -472927308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 98
+        width: 148
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14157675d6d46984d8579310d49eaddd
+      internalID: 981487620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 103
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551f6ac5947181478f6d00f6de48419
+      internalID: 1971255191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 152
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02c3c77b39f2c4b8251c933ccfc976
+      internalID: -1008707732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 131
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ae7da74e6ba04bb651017866d0d71
+      internalID: -95812581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 9
+        width: 144
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a8aa71b0a0d741bf656443c19239f
+      internalID: -1240723179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_kostenlose-cliparts_5287344_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 7
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb6ba8d7abce14db33fbf9f897b741
+      internalID: 1494939904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PinClipart.com_kostenlose-cliparts_5287344_0: -572473125
+      PinClipart.com_kostenlose-cliparts_5287344_1: -1836633335
+      PinClipart.com_kostenlose-cliparts_5287344_10: 981487620
+      PinClipart.com_kostenlose-cliparts_5287344_11: 1971255191
+      PinClipart.com_kostenlose-cliparts_5287344_12: -1008707732
+      PinClipart.com_kostenlose-cliparts_5287344_13: -95812581
+      PinClipart.com_kostenlose-cliparts_5287344_14: -1240723179
+      PinClipart.com_kostenlose-cliparts_5287344_15: 1494939904
+      PinClipart.com_kostenlose-cliparts_5287344_2: 580677119
+      PinClipart.com_kostenlose-cliparts_5287344_3: 25725256
+      PinClipart.com_kostenlose-cliparts_5287344_4: 1443944553
+      PinClipart.com_kostenlose-cliparts_5287344_5: -635554970
+      PinClipart.com_kostenlose-cliparts_5287344_6: -1650455259
+      PinClipart.com_kostenlose-cliparts_5287344_7: -2009320689
+      PinClipart.com_kostenlose-cliparts_5287344_8: 270864586
+      PinClipart.com_kostenlose-cliparts_5287344_9: -472927308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

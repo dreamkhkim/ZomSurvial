@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cf579335806564bbc23e0046ea2c19, type: 3}
+  m_Name: Gun01
+  m_EditorClassIdentifier: 
+  item:
+    E_type: 100
+    E_effectType: 0
+    E_attackType: 1
+    isUsed: 0
+    index: 100
+    name: Gun01
+    img: {fileID: 981487620, guid: e01267379b118714da17e520d445ec3f, type: 3}
+    level: 1
+    price: 300
+    stateValue: 10
+    skillName: 
+    skillValue: 0
+    infomation: Add Attack Value
+    buffValue: 0

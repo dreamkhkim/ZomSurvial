@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22d7fcf54898d854eada7c745fc26fdd, type: 3}
+  m_Name: PlayerStateTable
+  m_EditorClassIdentifier: 
+  table:
+  - {fileID: 11400000, guid: 6b9e0592305439944a44bebff4d45b83, type: 2}
+  - {fileID: 11400000, guid: 6996a56ca83b8ea45976da9e0ed0a097, type: 2}
+  - {fileID: 11400000, guid: f783a45923ab6af4abb7ed85e556901d, type: 2}
+  - {fileID: 11400000, guid: 077844774694f5e4baad303156a556a0, type: 2}
+  - {fileID: 11400000, guid: d432e1e4637f76d45816380b92ed83bc, type: 2}
+  - {fileID: 11400000, guid: db5bbc81f930ae0459f374e73121f3d6, type: 2}
+  - {fileID: 11400000, guid: 6db08d580e21449409db0cd77178061e, type: 2}
+  - {fileID: 11400000, guid: c7cb93f7bb34c394aba75c5583631229, type: 2}
